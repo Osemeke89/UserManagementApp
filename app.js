@@ -25,4 +25,4 @@ app.use('/', swaggerUi.serve, swaggerUi.setup(openApiDocumentation));
 
 
 
-app.listen(port, () => console.log(`Team Granite App is running on port: ${port}`));
+app.listen(port, () => console.log(`App is running on port: ${port}`));
