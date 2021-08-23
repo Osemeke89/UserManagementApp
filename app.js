@@ -7,7 +7,7 @@ const openApiDocumentation = require('./src/swagger/openApiDocumentation')
 const swaggerUi = require('swagger-ui-express')
 
 const app = express();
-const port = process.env.PORT || 5000;
+const port = process.env.PORT || 3000;
 const connectToDatabase = require('./src/db/mongoose');
 
 dotenv.config();
