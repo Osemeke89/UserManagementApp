@@ -14,13 +14,12 @@ A Dockerized User Management App
 - Test by getting the list of users i.e` GET - http://base_url/users`
 
 ## Contribute guide
-If you're in team-granite-backend:
+
 - Pull the latest version of the repo `git pull`
 - Create a feature branch with your feature name, e.g: `<user-pagination>`
 - Create the your feature locally and commit
 - Send a PR after you have test your feature locally with Postman
 - Tell us in your PR in bullet points what you have added
-- Add yourself as a user to the database (this will eventually count for contribution points)
 
 ### Features (in order of priorities)
 Again, as a member of team-granite you are free to choose one. Only start working on a feature after you have confirmed that it is not already worked on:
